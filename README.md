@@ -12,9 +12,7 @@ I'm currently studying C++ and unreal engine 5.<br>I have knowledge in HTML5, CS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tuafo&theme=solarized-light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuafo&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div>
-  ![Snake animation](https://github.com/thiagogoulart/tuafo/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/thiagogoulart/tuafo/blob/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
@@ -27,6 +25,5 @@ I'm currently studying C++ and unreal engine 5.<br>I have knowledge in HTML5, CS
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thiagomacenogoulart@gmail.com) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
