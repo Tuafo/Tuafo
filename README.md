@@ -17,9 +17,6 @@ I'm currently studying C++ and unreal engine 5.<br>I have knowledge in HTML5, CS
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Tuafo&icon=2&color=10)](https://visitcount.itsvg.in)
 
