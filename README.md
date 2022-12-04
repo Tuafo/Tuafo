@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm currently studying C++ and unreal engine 5.<br>I have knowledge in HTML5, CSS, PYTHON 3 and JAVA. <br>A few months ago I did my first freelance as a website developer
 
+![snake gif](https://github.com/Tuafo/Tuafo/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Tuafo#2143) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.linkedin.com/in/thiago-goulart-69131520b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-goulart-69131520b) 
@@ -11,10 +12,6 @@ I'm currently studying C++ and unreal engine 5.<br>I have knowledge in HTML5, CS
 ![](https://github-readme-stats.vercel.app/api?username=Tuafo&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tuafo&theme=solarized-light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuafo&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-![snake gif](https://github.com/Tuafo/Tuafo/blob/output/github-contribution-grid-snake.svg)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
