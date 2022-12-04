@@ -13,7 +13,7 @@ I'm currently studying C++ and unreal engine 5.<br>I have knowledge in HTML5, CS
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuafo&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![](https://github.com/thiagogoulart/tuafo/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Tuafo/Tuafo/blob/output/github-contribution-grid-snake.svg)
 
 
 ### ✍️ Random Dev Quote
