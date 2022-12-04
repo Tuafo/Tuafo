@@ -12,7 +12,17 @@ I'm currently studying C++ and unreal engine 5.<br>I have knowledge in HTML5, CS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tuafo&theme=solarized-light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuafo&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
+![](https://github.com/thiagogoulart/tuafo/raw/output/github-contribution-grid-snake.svg)
+
+Pull a github user's contribution graph.
+Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
+
+Generate a [gif](https://github.com/thiagogoulart/tuafo/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/thiagogoulart/tuafo/raw/output/github-contribution-grid-snake.svg) image.
+
+Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
