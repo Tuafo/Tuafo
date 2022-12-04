@@ -14,7 +14,7 @@ I'm currently studying C++ and unreal engine 5.<br>I have knowledge in HTML5, CS
 ![snake gif](https://github.com/Tuafo/Tuafo/blob/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tuafo&icon=2&color=10)](https://visitcount.itsvg.in)
