@@ -1,5 +1,5 @@
 # 🦄 About Me:
-At the moment I'm working at AutoGlass - Espírito Santo, Brazil. I was hired as an intern Low-Code developer, in the company I develop corporate applications using the PowerPlataform tools package. I'm doing information systems 3/8 at Vila Velha University - Espírito Santo, Brazil.<br><br>I'm currently studying React JS (TailWindCSS, SanityIO), React Native (NativeWindCSS, SanityIO) and Automation for Google Sheets using the Telegram API.<br><br>I have knowledge in HTML5, CSS, JAVASCRIPT, WORDPRESS, PYTHON 3, JAVA and UNREAL5. <br><br>In addition to personal projects or for job selection processes, I've done freelance work as a web developer.
+At the moment I'm working at AutoGlass - Espírito Santo, Brazil. I was hired as an intern Low-Code developer, in the company I develop corporate applications using the PowerPlataform tools package. I'm doing information systems 4/8 at Vila Velha University - Espírito Santo, Brazil.<br><br>I'm currently studying Blockchain Development with Solidity and Javascript.<br><br>I have knowledge in HTML5, CSS, JAVASCRIPT, WORDPRESS, PYTHON 3, JAVA and UNREAL5. <br><br>In addition to personal projects or for job selection processes, I've done freelance work as a web developer.
 
 
 
