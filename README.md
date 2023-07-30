@@ -26,7 +26,8 @@ Hi there, welcome to my GitHub profile! Let me tell you a bit about myself:
 - Outside of my professional work and academic studies, I've worked on a number of personal projects and have even undertaken freelance work as a web developer. I enjoy the challenge of applying my knowledge to diverse projects and love seeing the tangible outcomes of my work.
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or would like to discuss potential projects or opportunities.
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@th_goulart)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-maceno-rocha-goulart-69131520b) 
 
 # 📊 GitHub Stats:
 
@@ -49,14 +50,3 @@ Thanks for visiting my profile! Feel free to reach out if you have any questions
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuafo&repo=React-Native-Jobs&theme=transparent&show_owner=true)](https://github.com/Tuafo/React-Native-Jobs)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuafo&repo=hardhat-fund-me-fcc&theme=transparent&show_owner=true)](https://github.com/Tuafo/hardhat-fund-me-fcc)
 </div>
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@th_goulart) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-maceno-rocha-goulart-69131520b) 
-
----
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Tuafo/count.svg" />
-</p>
