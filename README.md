@@ -28,6 +28,3 @@ At the moment I'm working at AutoGlass - Espírito Santo, Brazil. I was hired as
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=Tuafo&icon=2&color=10)](https://visitcount.itsvg.in)
