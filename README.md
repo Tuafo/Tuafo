@@ -31,8 +31,15 @@ Thanks for visiting my profile! Feel free to reach out if you have any questions
 
 # 📊 GitHub Stats:
 
+<a href="https://github.com/tuafo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tuafo\&show=reviews,discussions_started,discussions_answered\&show_icons=true\&theme=transparent" />
+</a>
+<a href="https://github.com/tuafo/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuafo&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <div align="center">
-  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuafo&theme=transparent"/>
+  <img align="center" alt="GitHub Details" src="https://github-readme-stats.vercel.app/api?username=tuafo\&show=reviews,discussions_started,discussions_answered\&show_icons=true\&theme=transparent"/>
   <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuafo&theme=transparent"/>
   <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuafo&theme=transparent"/>
   <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuafo&theme=transparent"/>
