@@ -6,11 +6,12 @@
 
 Hi there, welcome to my GitHub profile! Let me tell you a bit about myself:
 
-- I'm currently working at **AutoGlass**, based in Espírito Santo, Brazil, where I started as an intern and now I'm a Low-Code developer. I focus on creating corporate applications using the PowerPlatform tools package.
+- I'm currently working at **AutoGlass**, based in Espírito Santo, Brazil, where I started as an intern and now I'm a RPA developer. I focus on automating internals process of the company.
 
 - I'm a student of information systems at Vila Velha University, also in Espírito Santo, Brazil. I've completed 4 out of 8 semesters and I'm really excited about what's to come!
 
 - I'm diving deep into Blockchain Development, honing my skills in Solidity and Javascript. Blockchain is a fascinating field and I'm eager to see where this journey will take me.
+- I've been working with UNREAL 5 too, diving into the world of the game developement! It's my passion!
 
 - My technical skills include:
   - HTML5
