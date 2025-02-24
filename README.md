@@ -86,5 +86,6 @@ Thanks for visiting my profile! Feel free to reach out if you have any questions
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Far-Beyond-Dev&repo=Far-Beyond-Dev&theme=transparent&show_owner=true)](https://github.com/Far-Beyond-Dev)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Far-Beyond-Dev&repo=Horizon-Community-Edition&theme=transparent&show_owner=true)](https://github.com/Far-Beyond-Dev/Horizon-Community-Edition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Far-Beyond-Dev&repo=PebbleVault&theme=transparent&show_owner=true)](https://github.com/Far-Beyond-Dev/PebbleVault)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuafo&repo=teste-tecnico-bonus&theme=transparent&show_owner=true)]([https://github.com/Far-Beyond-Dev/PebbleVault](https://github.com/Tuafo/teste-tecnico-bonus))
 
 </div>
