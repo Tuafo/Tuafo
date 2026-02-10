@@ -6,7 +6,7 @@
 
 Hi there, welcome to my GitHub profile! Let me tell you a bit about myself:
 
-- I'm a student of Information Systems at Cruzeiro do Sul, Brazil. I've completed 4 out of 8 semesters and I'm really excited about what's to come!
+- I'm a student of Information Systems at Uniacademia - Juiz de Fora, Minas Gerais. I've completed 6 periods up to this moment and I'm really excited about what's to come!
 
 - I'm currently seeking new opportunities. In the meantime, I'm one of the founders of an open-source game server: [Far Beyond Dev](https://github.com/Far-Beyond-Dev). Check out our website: [https://horizon.farbeyond.dev/](https://horizon.farbeyond.dev/)
 
