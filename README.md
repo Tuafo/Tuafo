@@ -1,35 +1,93 @@
-# Hey there :wave:
+# Hey there, I'm Thiago :wave:
 
-<img src="https://github.com/Tuafo/Tuafo/blob/main/Hello%20World!.gif" alt="Hello world">
+<img src="https://github.com/Tuafo/Tuafo/blob/main/Hello%20World!.gif" alt="Hello world" width="400">
 
-## 🦄 About Me
+**Full-stack developer · Python · TypeScript · Rust** — Juiz de Fora, Brazil (open to remote)
 
-Hi there, welcome to my GitHub profile! Let me tell you a bit about myself:
+I build complete applications, from the back-end (Python/FastAPI, Rust/Axum, PostgreSQL) to the front-end (React, Next.js, Vue.js), plus internal tools and process automation. I'm also co-founder and lead developer at **Far Beyond OpenSource**, where we build open source software: a game engine, a UI framework, a database and a game server.
 
-- I'm a student of Information Systems at Uniacademia - Juiz de Fora, Minas Gerais. I've completed 6 periods up to this moment and I'm really excited about what's to come!
+- 💼 **Open to opportunities**: full-stack, back-end (Python/Rust) or front-end (React) roles
+- 🌱 Information Systems student (Cruzeiro do Sul, distance learning), started at Universidade Vila Velha (UVV)
+- 🗣️ Portuguese (native) · English (fluent) · Spanish (basic)
 
-- I'm currently seeking new opportunities. In the meantime, I'm one of the founders of an open-source game server: [Far Beyond Dev](https://github.com/Far-Beyond-Dev). Check out our website: [https://horizon.farbeyond.dev/](https://horizon.farbeyond.dev/)
+## 🚀 What I work on
 
-- I've been working with Unreal Engine 5, diving into the world of game development! It's my passion! Right now, I'm working on a game called 'Stars Beyond'. Check it out at [https://stars-beyond.com/](https://stars-beyond.com/)
+**Far Beyond OpenSource** (2024 – now), co-founder and lead developer
+- [Pulsar Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native): a game engine written in Rust
+- [Helio](https://github.com/Far-Beyond-Pulsar/Helio): a high-performance rendering engine in Rust (wgpu/WGSL)
+- [Horizon](https://github.com/Far-Beyond-Dev/Horizon): a scalable game server in Rust
+- [PebbleVault](https://github.com/Far-Beyond-Dev/PebbleVault): an in-memory database with spatial queries, built for Horizon
+- [Plugin_Voxel](https://github.com/Far-Beyond-Pulsar/Plugin_Voxel): destructible voxel terrain for Pulsar (runtime, file formats and the renderer feature that draws it)
 
-- My technical skills include:
-  - Rust
-  - C++
-  - Unreal Blueprints
-  - Go
-  - HTML5
-  - CSS
-  - JavaScript
-  - WordPress
-  - Python 3
-  - Java
-  - Unreal Engine 5
-  - Solidity
-  - And more!
+**Other projects**
+- **Marulho Radio**: a radio platform for DJs and artists (Rust/Axum, PostgreSQL, S3 uploads, Next.js), now in beta
+- **Marulho Social**: a social app where you choose how your feed is ranked and every post shows how it reached you. Expo/React Native and Next.js apps, a Rust (Axum, SQLx/PostgreSQL) server and a shared Rust ranking crate that runs on the device
+- **Conecta Lixo**: a mobile app for recycling pickups (React Native, Expo, Supabase)
 
-- Outside of my academic studies, I've worked on numerous personal projects and contribute to open-source projects. I enjoy the challenge of applying my knowledge to diverse projects and love seeing the tangible outcomes of my work.
+**Experience**: front-end developer at Chico Rei (Vue.js) · developer intern at Autoglass (Python, RPA, Power Platform) · built a production order dashboard at Purissima in one week (Next.js, AWS Amplify)
 
-## 🐍 My Contribution Graph
+## 💻 Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![WGSL](https://img.shields.io/badge/WGSL%20%2F%20GLSL-5586A4?style=for-the-badge&logo=webgpu&logoColor=white)
+
+**Back-end and data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Axum](https://img.shields.io/badge/Axum%20%2F%20Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Front-end and mobile**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Infra and tools**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Amplify%20%2F%20S3-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+
+## 📌 Featured repos
+
+<div align="center">
+
+[![Pulsar Native](https://github-readme-stats.vercel.app/api/pin/?username=Far-Beyond-Pulsar&repo=Pulsar-Native&theme=transparent&show_owner=true)](https://github.com/Far-Beyond-Pulsar/Pulsar-Native)
+[![Helio](https://github-readme-stats.vercel.app/api/pin/?username=Far-Beyond-Pulsar&repo=Helio&theme=transparent&show_owner=true)](https://github.com/Far-Beyond-Pulsar/Helio)
+[![Horizon](https://github-readme-stats.vercel.app/api/pin/?username=Far-Beyond-Dev&repo=Horizon&theme=transparent&show_owner=true)](https://github.com/Far-Beyond-Dev/Horizon)
+[![PebbleVault](https://github-readme-stats.vercel.app/api/pin/?username=Far-Beyond-Dev&repo=PebbleVault&theme=transparent&show_owner=true)](https://github.com/Far-Beyond-Dev/PebbleVault)
+[![Plugin_Voxel](https://github-readme-stats.vercel.app/api/pin/?username=Far-Beyond-Pulsar&repo=Plugin_Voxel&theme=transparent&show_owner=true)](https://github.com/Far-Beyond-Pulsar/Plugin_Voxel)
+
+</div>
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img alt="GitHub Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tuafo&theme=transparent"/>
+  <img alt="Repos per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tuafo&theme=transparent"/>
+  <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tuafo&theme=transparent"/>
+  <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tuafo&theme=transparent"/>
+  <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tuafo&theme=transparent&utcOffset=-3"/>
+</div>
+
+## 🐍 Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Tuafo/Tuafo/blob/output/github-snake-dark.svg" />
@@ -37,55 +95,9 @@ Hi there, welcome to my GitHub profile! Let me tell you a bit about myself:
   <img alt="github-snake" src="https://github.com/Tuafo/Tuafo/blob/output/github-snake.svg" />
 </picture>
 
-Thanks for visiting my profile! Feel free to reach out if you have any questions or would like to discuss potential projects or opportunities.
+## 📫 Contact
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@th_goulart)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-maceno-rocha-goulart-69131520b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-maceno-rocha-goulart/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/th_goulart)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img alt="GitHub Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuafo&theme=transparent"/>
-  <img alt="Repos per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuafo&theme=transparent"/>
-  <img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuafo&theme=transparent"/>
-  <img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuafo&theme=transparent"/>
-  <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuafo&theme=transparent&utcOffset=8"/>
-</div>
-
-## 💻 Tech Stack
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-## </> Repos I'm proud of
-
-<div align="center"> 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Far-Beyond-Dev&repo=Horizon&theme=transparent&show_owner=true)](https://github.com/Far-Beyond-Dev/Horizon)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Far-Beyond-Dev&repo=PebbleVault&theme=transparent&show_owner=true)](https://github.com/Far-Beyond-Dev/PebbleVault)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuafo&repo=teste-tecnico-bonus&theme=transparent&show_owner=true)](https://github.com/Tuafo/teste-tecnico-bonus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuafo&repo=teste-tecnico&theme=transparent&show_owner=true)](https://github.com/Tuafo/teste-tecnico)
-
-</div>
+Thanks for visiting! Feel free to reach out about projects or opportunities.
